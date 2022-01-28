@@ -1,0 +1,372 @@
+[
+  {
+    "Name": "Neeyati",
+    "GPA": 2.47,
+    "Major": "Math"
+  },
+  {
+    "Name": "Kimberly",
+    "GPA": 2.43,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Mateo",
+    "GPA": 2.53,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Ethan",
+    "GPA": 2.24,
+    "Major": "Math"
+  },
+  {
+    "Name": "Alisar",
+    "GPA": 3.5,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Anida",
+    "GPA": 2.81,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Amy",
+    "GPA": 2.7,
+    "Major": "Math"
+  },
+  {
+    "Name": "Amit",
+    "GPA": 2.24,
+    "Major": "CS"
+  },
+  {
+    "Name": "Gregory",
+    "GPA": 3.06,
+    "Major": "Math"
+  },
+  {
+    "Name": "Gina",
+    "GPA": 3.98,
+    "Major": "Math"
+  },
+  {
+    "Name": "Jordan",
+    "GPA": 2.24,
+    "Major": "Math"
+  },
+  {
+    "Name": "Canitha",
+    "GPA": 3.6,
+    "Major": "CS"
+  },
+  {
+    "Name": "Cassi",
+    "GPA": 3.56,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Yeonah",
+    "GPA": 3.82,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Zane",
+    "GPA": 3.97,
+    "Major": "Math"
+  },
+  {
+    "Name": "Maximiliano",
+    "GPA": 3.48,
+    "Major": "Math"
+  },
+  {
+    "Name": "Nancy",
+    "GPA": 3.92,
+    "Major": "Math"
+  },
+  {
+    "Name": "Andrew",
+    "GPA": 3.23,
+    "Major": "CS"
+  },
+  {
+    "Name": "Natalie",
+    "GPA": 3.92,
+    "Major": "Math"
+  },
+  {
+    "Name": "Ana",
+    "GPA": 3.45,
+    "Major": "Math"
+  },
+  {
+    "Name": "Matthew",
+    "GPA": 3.78,
+    "Major": "CS"
+  },
+  {
+    "Name": "Jonathan",
+    "GPA": 3.04,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Marcos",
+    "GPA": 2.93,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Marvey",
+    "GPA": 3.16,
+    "Major": "Math"
+  },
+  {
+    "Name": "Christopher",
+    "GPA": 3.71,
+    "Major": "CS"
+  },
+  {
+    "Name": "Carmen",
+    "GPA": 2.37,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Darrik",
+    "GPA": 3.46,
+    "Major": "Math"
+  },
+  {
+    "Name": "Ashley",
+    "GPA": 3.74,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Benjamin",
+    "GPA": 2.21,
+    "Major": "Math"
+  },
+  {
+    "Name": "Barty",
+    "GPA": 3.65,
+    "Major": "Math"
+  },
+  {
+    "Name": "Ashley",
+    "GPA": 2.34,
+    "Major": "CS"
+  },
+  {
+    "Name": "Ryan",
+    "GPA": 3.1,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Rainy",
+    "GPA": 3.17,
+    "Major": "CS"
+  },
+  {
+    "Name": "Yejin",
+    "GPA": 3.19,
+    "Major": "CS"
+  },
+  {
+    "Name": "Alexander",
+    "GPA": 3.54,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Nathan",
+    "GPA": 3.38,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Chelsea",
+    "GPA": 3.19,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Godwin",
+    "GPA": 2.29,
+    "Major": "CS"
+  },
+  {
+    "Name": "Joseph",
+    "GPA": 2.82,
+    "Major": "Math"
+  },
+  {
+    "Name": "Jack",
+    "GPA": 3.49,
+    "Major": "Bio"
+  },
+  {
+    "Name": "David",
+    "GPA": 2.82,
+    "Major": "CS"
+  },
+  {
+    "Name": "Dave",
+    "GPA": 3.9,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Danielle",
+    "GPA": 2.92,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Dan",
+    "GPA": 3.25,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Eric",
+    "GPA": 3.16,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Sandra",
+    "GPA": 2.47,
+    "Major": "Math"
+  },
+  {
+    "Name": "Sandy",
+    "GPA": 3.66,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Jeffrey",
+    "GPA": 2.72,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Javier",
+    "GPA": 3.85,
+    "Major": "Math"
+  },
+  {
+    "Name": "Anthony",
+    "GPA": 3.53,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Amar",
+    "GPA": 3.91,
+    "Major": "Math"
+  },
+  {
+    "Name": "Toan",
+    "GPA": 3.34,
+    "Major": "Math"
+  },
+  {
+    "Name": "Daisy",
+    "GPA": 2.56,
+    "Major": "CS"
+  },
+  {
+    "Name": "Arturo",
+    "GPA": 2.45,
+    "Major": "Math"
+  },
+  {
+    "Name": "Deep",
+    "GPA": 2.69,
+    "Major": "Math"
+  },
+  {
+    "Name": "Benjamin",
+    "GPA": 2.17,
+    "Major": "CS"
+  },
+  {
+    "Name": "Ding",
+    "GPA": 2.34,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Shiv",
+    "GPA": 2.87,
+    "Major": "CS"
+  },
+  {
+    "Name": "Zhenxiang",
+    "GPA": 3.46,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Shirley",
+    "GPA": 2.11,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Conner",
+    "GPA": 3.8,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Madeline",
+    "GPA": 3.15,
+    "Major": "Math"
+  },
+  {
+    "Name": "Babak",
+    "GPA": 3.55,
+    "Major": "Chem"
+  },
+  {
+    "Name": "William",
+    "GPA": 2.47,
+    "Major": "CS"
+  },
+  {
+    "Name": "Camryn",
+    "GPA": 2.59,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Alexa",
+    "GPA": 2.31,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Seyed",
+    "GPA": 3.02,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Davis",
+    "GPA": 2.77,
+    "Major": "CS"
+  },
+  {
+    "Name": "Baret",
+    "GPA": 3.45,
+    "Major": "Chem"
+  },
+  {
+    "Name": "Anthony",
+    "GPA": 3.33,
+    "Major": "CS"
+  },
+  {
+    "Name": "Alysia",
+    "GPA": 3.12,
+    "Major": "CS"
+  },
+  {
+    "Name": "Darrell",
+    "GPA": 2.75,
+    "Major": "Bio"
+  },
+  {
+    "Name": "Yuan-Chieh",
+    "GPA": 2.08,
+    "Major": "Math"
+  },
+  {
+    "Name": "Ashley",
+    "GPA": 2.9,
+    "Major": "CS"
+  }
+]
